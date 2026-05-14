@@ -1,6 +1,7 @@
 """
 Streamlit 메인 앱 파일
 한국은행 선행지수 순환변동치 + 달러인덱스 대시보드
+260514.1458
 """
 import streamlit as st
 import pandas as pd
